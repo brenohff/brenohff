@@ -29,8 +29,6 @@ Lover of Technology and coding :purple_heart:
 ![Spring Badge](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![Flutter Badge](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Angular Badge](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/Docker-0FAAFF.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Kubernets Badge](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 <br>
 
 ### Others skills
