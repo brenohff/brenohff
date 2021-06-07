@@ -37,6 +37,7 @@ Lover of Technology and coding :purple_heart:
 ![Docker Badge](https://img.shields.io/badge/Docker-0FAAFF.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernets Badge](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red)
+<br>
 ![Git Badge](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab Badge](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
