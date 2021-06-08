@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Breno Franco!</h1><img align="right" src="https://github.com/Rubenscode/Rubenscode/blob/main/img/computer.png" width="350"/>
 
-Backend developer using Java and Mobile developer using Flutter. 
+Backend and Mobile developer. 
 <br> 
 Computer Scientist :alien:
 
