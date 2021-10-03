@@ -60,7 +60,7 @@ Lover of Technology and coding :purple_heart:
 ### About Me 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/brenohff)](https://github.com/brenohff)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubens-almeida-andrade/)](https://www.linkedin.com/in/breno-franco-752a16a2/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/breno-franco-752a16a2/)](https://www.linkedin.com/in/breno-franco-752a16a2/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brenohff@gmail.com)](mailto:brenohff@gmail.com)<br>
 
 ### Recent Activities ✨
